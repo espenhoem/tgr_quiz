@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tgr_quiz/static/css/main.b0b50fa5.css",
+    "main.js": "/tgr_quiz/static/js/main.4633a835.js",
+    "static/media/background.mp3": "/tgr_quiz/static/media/background.edf19ad57bef96003252.mp3",
+    "static/media/bakgrunn_kveldstid.png": "/tgr_quiz/static/media/bakgrunn_kveldstid.5157e12bf4652f59c629.png",
+    "static/media/car.png": "/tgr_quiz/static/media/car.17c1c66fb2279360d753.png",
+    "static/media/lost.mp3": "/tgr_quiz/static/media/lost.4c58951111a2cbe76452.mp3",
+    "static/media/wrong.mp3": "/tgr_quiz/static/media/wrong.ec0c38b607e50cb89f79.mp3",
+    "static/media/countdown.mp3": "/tgr_quiz/static/media/countdown.aa85412b539245131571.mp3",
+    "static/media/victory.mp3": "/tgr_quiz/static/media/victory.c2cb6b97b24514ae95d0.mp3",
+    "static/media/logo-tgr.png": "/tgr_quiz/static/media/logo-tgr.dd0fa644be54a65329e3.png",
+    "static/media/correct.mp3": "/tgr_quiz/static/media/correct.e0b84a913ea99459ebab.mp3",
+    "static/media/Date Stamp Alt Bold.woff": "/tgr_quiz/static/media/Date Stamp Alt Bold.08e3c4cc9af90371aebf.woff",
+    "index.html": "/tgr_quiz/index.html",
+    "main.b0b50fa5.css.map": "/tgr_quiz/static/css/main.b0b50fa5.css.map",
+    "main.4633a835.js.map": "/tgr_quiz/static/js/main.4633a835.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b50fa5.css",
+    "static/js/main.4633a835.js"
+  ]
+}
